@@ -1,5 +1,5 @@
 # 결정 알고리즘 (Decision Algorithm)
-[이분 검색(Binary Search)](https://www.notion.so/Binary-Search-10e59b679141444289c9d10bb50fa9a2) 기반으로 주어진 조건에서의 최대 혹은 최소값을 구하는 알고리즘이다.
+이분 검색(Binary Search) 기반으로 주어진 조건에서의 최대 혹은 최소값을 구하는 알고리즘이다.
 
 ## 예시 문제
 
