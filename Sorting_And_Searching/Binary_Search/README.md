@@ -4,9 +4,6 @@
 ![image.gif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8b68cdbd-61d0-4b0d-bfad-0d8ab22cd77d/image.gif)
 
 ## ⚙ Process
-
----
-
 1. 배열 혹은 리스트를 정렬한다.
 2. left = 배열의 첫번째 인덱스,  right = 마지막 인덱스를 각각 저장한다.
 3. mid 값을 구한다. (left + right) / 2
