@@ -44,6 +44,8 @@ public static void DFS(int n){
 ### ✅JAVA
 
 ```java
+입력받은 10진수를 2진수로 출력하여라 (재귀함수를 사용하여 출력한다.)
+
 public static void main(String[] args) {
     Scanner sc = new Scanner(System.in);
 
