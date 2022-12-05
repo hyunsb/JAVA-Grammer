@@ -17,6 +17,8 @@
 ### ✅JAVA
 
 ```java
+자연수 N이 입력되면 재귀함수를 이용하여 1부터 N까지 출력하여라
+
 public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         DFS(sc.nextInt());
