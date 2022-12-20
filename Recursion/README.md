@@ -1,7 +1,4 @@
 ## 재귀함수(Recursion)
-
----
-
 함수가 직접 또는 간접적으로 자기 자신을 호출하는 프로세스를 말합니다.
 
 재귀함수의 종료지점을 유의하여 구현을 진행하여야 스택오버플로우가 발생하지 않으니 주의하여 구현해야합니다.
@@ -20,6 +17,8 @@
 ### ✅JAVA
 
 ```java
+자연수 N이 입력되면 재귀함수를 이용하여 1부터 N까지 출력하여라
+
 public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         DFS(sc.nextInt());
@@ -45,6 +44,8 @@ public static void DFS(int n){
 ### ✅JAVA
 
 ```java
+입력받은 10진수를 2진수로 출력하여라 (재귀함수를 사용하여 출력한다.)
+
 public static void main(String[] args) {
     Scanner sc = new Scanner(System.in);
 
