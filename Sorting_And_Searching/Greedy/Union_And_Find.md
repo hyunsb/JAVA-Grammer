@@ -42,15 +42,11 @@
 8 9
 
 3 8
-
-
-
+<br><br>
 친구 그룹의 번호를 저장하는 배열을 생성하고 그룹 번호를 저장하여
 
 입력 값으로 받아온 두 학생이 친구 사이인지 판단한다.
-
-
-
+<br><br>
 `friendGroupNumber` :친구 그룹의 번호를 저장하는 배열
 
 `Int Find(int student)` : 친구 그룹의 번호를 최신화하여 반환
@@ -58,7 +54,7 @@
 `Void Union(int studentA, int studentB)` : 파라매터로 받아온 학생의 친구 그룹을 통합
 
 `Boolean isFriends(int studentA, int studentB)` : 두 학생이 친구인지 판단하여 반환
-
+<br><br>
 ```java
 static int[] friendGroupNumber;
 ```
